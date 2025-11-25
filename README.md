@@ -11,7 +11,7 @@ ___
                   🔮𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄🔮   
                        
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/malindunimsara/heroku-v2ray"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/wqws520/Heroku-V2ray-VLESS"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 😒 ɪꜰ ꜱʜᴏᴡɪɴɢ ᴇʀʀᴏʀ ɪɴ ʜᴇʀᴏᴋᴜ, ʙᴇᴄᴀᴜꜱᴇ ᴍʏ ʀᴇᴘᴏ ʙᴀɴɴᴇᴅ ꜰʀᴏᴍ ʜᴇʀᴏᴋᴜ😡,
 
